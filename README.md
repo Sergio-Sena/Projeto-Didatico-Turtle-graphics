@@ -1,9 +1,5 @@
 # Projeto-Didatico-Turtle-graphics
 Gráfico criado com a Biblioteca turtle graphics em Python
-<<<<<<< HEAD
-#
-  
- 
 
 =======
 ##
@@ -18,14 +14,9 @@ Gráfico criado com a Biblioteca turtle graphics em Python
   <img align="center" alt="sergio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="sergio-visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   </div>
-  
-##
- <div style ="center">
- <img align="center" alt="sergio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </>
-  
+    
 <div> 
  	<a href = "mailto:senanetworker@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sergio-pereira-sena-4a0292196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/sergio.senaoficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
->>>>>>> 1fb30ad3aefebcc6b14e9d7fced8ef0126d9b4b1
+
